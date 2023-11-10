@@ -1,0 +1,36 @@
+
+.card{
+    width:300px ;
+    height: 900px;
+    padding: 20px ;
+    border: 1px solid #585656;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px  rgba(57, 56, 56, 0.1);
+    margin: 20px ;
+    background-color:#ffffff ;
+    overflow: hidden;
+    transition: transform 0.2s;
+    align-items: center ;
+  }
+
+  .card:hover{
+
+    transform:scale(1.05) ;
+
+  }
+
+  .teste{
+    width: 100%;
+    border-radius: 6px 6px 0 0;
+  }
+
+  .titulo{
+
+    font-size: 15px;
+    margin-bottom: 10px ;
+
+  }
+ 
+
+  
+ 
